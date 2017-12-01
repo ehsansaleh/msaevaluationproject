@@ -1,0 +1,18 @@
+,SF054,proteasome,AL00048098,BALBS213
+Benchmark,MattBench,Homstrad,Sisyphus,BAliBase
+Number of Sequences,17,17,17,17
+Maximum Sequence Length,270,250,117,688
+MAFFT-Auto, 0h 0.82s, 0h 0.54s, 0h 0.31s, 0h 1.97s
+MAFFT-G-INS-I, 0h 0.69s, 0h 0.67s, 0h 0.30s, 0h 1.97s
+MAFFT-L-INS-I, 0h 0.63s, 0h 0.52s, 0h 0.29s, 0h 2.02s
+MAFFT-E-INS-I, 0h 0.66s, 0h 0.62s, 0h 0.31s, 0h 2.31s
+Muscle, 0h 0.48s, 0h 0.42s, 0h 0.13s, 0h 1.03s
+Clustal-Omega, 0h 0.39s, 0h 0.26s, 0h 0.10s, 0h 1.47s
+Prank, 0h 48.49s, 1h 1m 16.10s, 0h 9.42s, 4h 4m 14.73s
+ContrAlign, 0h 5.85s, 0h 6.24s, 0h 1.35s, 0h 42.01s
+DiAlign, 0h 0.03s, 0h 0.00s, 0h 0.00s, 0h 0.00s
+KAlign, 0h 0.07s, 0h 0.02s, 0h 0.01s, 0h 0.11s
+ProbAlign, 0h 1.65s, 0h 1.40s, 0h 0.42s, 0h 7.87s
+Prime, 0h 0.05s, 0h 0.00s, 0h 0.00s, 0h 0.00s
+ProbCons, 0h 3.06s, 0h 2.58s, 0h 0.63s, 0h 12.62s
+Promals, 14h 14m 11.46s, 12h 12m 22.08s, 5h 5m 6.18s, 24h 24m 3.19s

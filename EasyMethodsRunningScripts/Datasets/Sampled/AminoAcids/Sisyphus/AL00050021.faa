@@ -1,0 +1,65 @@
+>1rie SISYPHUS AL00050021 construct 924 pdb region: [ NULL:72-196]
+SKIEI------------KLSDIPeg-------KNMAFKw----------rgk--PLFVRH
+RTkkeidqeaavevsqlrdpqhdlervk-------kpeWVILIGVCTHLGCVPian----
+-------agdf-GGYYCPCHGSHYDAS--GRIRKGPAP------------LNLEVPSYEF
+TSd-DMVIVG
+>1pp9.E SISYPHUS AL00050021 construct 925 pdb region: [E:72-196]
+SKIEI------------KLSDIPeg-------KNMAFKw----------rgk--PLFVRH
+RTkkeidqeaavevsqlrdpqhdlervk-------kpeWVILIGVCTHLGCVPian----
+-------agdf-GGYYCPCHGSHYDAS--GRIRKGPAP------------LNLEVPSYEF
+TSd-DMVIVG
+>1ezv.E SISYPHUS AL00050021 construct 926 pdb region: [E:92-215]
+AKVEV------------NLAAIPlg-------KNVVVKw----------qgk--PVFIRH
+RTpheiqeansvdmsalkdpqtdadrvk-------dpqWLIMLGICTHLGCVPige----
+-------agdf-GGWFCPCHGSHYDIS--GRIRKGPAP------------LNLEIPAYEF
+DG--DKVIVG
+>1q90.C SISYPHUS AL00050021 construct 927 pdb region: [C:80-190]
+QAAKD--algndikageWLKTHLag-------DRSLSQg---------lkgd--PTYLIV
+TAds-------------------------------tieKYGLNAVCTHLGCVVpwv----
+-------aae--NKFKCPCHGSQYNAE--GKVVRGPAP------------LSLALAHCDV
+AEs-GLVTFS
+>1vf5.D SISYPHUS AL00050021 construct 928 pdb region: [D:53-163]
+GTTAK-dklgnnvkvskFLESHNag-------DRVLVQg---------lkgd--PTYIVV
+ESke-------------------------------airDYGINAVCTHLGCVVpwn----
+-------aae--NKFKCPCHGSQYDET--GRVIRGPAP------------LSLALCHATV
+QD--DNIVLT
+>1rfs SISYPHUS AL00050021 construct 929 pdb region: [ NULL:53-162]
+TIAKD--algndviaaeWLKTHApg-------DRTLTQg---------lkgd--PTYLVV
+ESdk-------------------------------tlaTFGINAVCTHLGCVVpfn----
+-------aae--NKFICPCHGSQYNNQ--GRVVRGPAP------------LSLALAHCDV
+DD--GKVVFV
+>1g8j.B SISYPHUS AL00050021 construct 930 pdb region: [B:7-119]
+PATAV-----------sVAKNLAan-------EPSSFTy--------pdtss--PCVAVK
+LGap------vpggvgpd------------------ddIVAYSVLCTHMGCPTsyd----
+-------sss--KTFSCPCHFTEFDAEkaGQMICGEAT------------ADLPRVLLRY
+DAasDALTAV
+>1jm1.A SISYPHUS AL00050021 construct 931 pdb region: [A:57-211]
+PRYKV-----------aNIQQVQq-qikssgcAVYFFAy--------pltde--PCFLVD
+LQaltgqqiteipnpyygkyagplgqiqtikgvgpngtIFAFSDVCVHLGCQLpaqvivs
+sesdpglyakg-ADLHCPCHGSIYALKdgGVVVSGPAP------------RPLPIVILDY
+DSstGDIYAV
+>1fqt.A SISYPHUS AL00050021 construct 932 pdb region: [A:2-102]
+KFTRV-----------cDRRDVPeg-------EALKVE----------sggt--SVAIFN
+VDg----------------------------------eLFATQDRCTHGDWSLsdg----
+-------gylegDVVECSLHMGKFCVR-tGKVKSPPPC------------EALKIFPIRI
+EDn-DVLVDF
+>1nyk.A SISYPHUS AL00050021 construct 933 pdb region: [A:54-191]
+PGDILvyaqgggepkpiRLEELKpg------dPFVLAYpmdpktkvvksgeaknTLLVAR
+FDpeelapevaqhaae---------------------gVVAYSAVCTHLGCIV-sq----
+-------wvadeEAALCPCHGGVYDLRhgAQVIAGPPP------------RPVPQLPVRV
+EDg-VLVAAG
+>1sjg.A SISYPHUS AL00050021 construct 934 pdb region: [A:2-102]
+SFEKI-----------cSLDDIWvg-------EMETFEt---------sdgt--EVLIVN
+SEeh---------------------------------gVKAYQAMCPHQEILLse-----
+-------gsyegGVITCRAHLWTFNDG--TGHGINPDD------------CCLAEYPVEV
+KGd-DIYVST
+>1o7n.A SISYPHUS AL00050021 construct 935 pdb region: [A:38-151]
+NWLFL-----------tHDSLIPapg------DYVTAKm----------gid--EVIVSR
+QNd---------------------------------gsIRAFLNVCRHRGKTLvsv----
+-------eagnaKGFVCSYHGWGFGSN--GELQSVPFEkdlygeslnkkcLGLKEVARVE
+SFh-GFIYGC
+>1uli.A SISYPHUS AL00050021 construct 936 pdb region: [A:55-166]
+SWLLM-----------gHETQIPkag------DFMTNYm----------ged--PVMVVR
+QKn---------------------------------geIRVFLNQCRHRGMRIcra----
+-------dggnaKSFTCSYHGWAYDTG--GNLVSVPFEeqafpglrked-WGPLQARVET
+YK--GLIFAN

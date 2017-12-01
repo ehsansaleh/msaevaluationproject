@@ -1,0 +1,90 @@
+>1u7v.B SISYPHUS AL00049879 construct 1685 pdb region: [B:324-529]
+CSIAYFemdvqvg------eTFKVpssc-----------PIVTVDGYvdpsg-------g
+drfclgqlsnvhrteaierarlhigkGVQLECkg----egDVWVRclsdhavfvqsyyld
+reagrapgdavhkiypsaYIKVFdlrqchrqmqqqaataqaaaaaqaaavagnipgpgsv
+ggiapaislsaaagigvddlrrlcILRMSFVkgwgpdyprqsiketpcWIEIHL
+>1u7v.A SISYPHUS AL00049879 construct 1686 pdb region: [A:275-442]
+CSIAYYelnqrvg------eTFHAsq-------------PSLTVDGFtdpsn-------s
+erfclgllsnvnrnatvemtrrhigrGVRLYYig-----gEVFAEclsdsaifvqspncn
+qrygwhpa-tvckippgcNLKIFnnqefaallaqsvnqgfeavy----------------
+------------------qltrmcTIRMSFVkgwgaeyrrqtvtstpcWIELHL
+>1khx.A SISYPHUS AL00049879 construct 1687 pdb region: [A:275-442]
+CSIAYYelnqrvg------eTFHAsq-------------PSLTVDGFtdpsn-------s
+erfclgllsnvnrnatvemtrrhigrGVRLYYig-----gEVFAEclsdsaifvqspncn
+qrygwhpa-tvckippgcNLKIFnnqefaallaqsvnqgfeavy----------------
+------------------qltrmcTIRMSFVkgwgaeyrrqtvtstpcWIELHL
+>1khu.A SISYPHUS AL00049879 construct 1688 pdb region: [A:272-440]
+CSIVYYelnnrvg------eAFHAss-------------TSVLVDGFtdpsnn------k
+nrfclgllsnvnrnstientrrhigkGVHLYYvg-----gEVYAEclsdssifvqsrncn
+yhhgfhpt-tvckipsgcSLKIFnnqefaqllaqsvnhgfetvy----------------
+------------------eltkmcTIRMSFVkgwgaeyhrqdvtstpcWIEIHL
+>1g6g.A SISYPHUS AL00049879 construct 1689 pdb region: [A:34-147]
+CRVICTtgqi---------pIRDLsadisqvlkekrsikKVWTFGRNpacdyhlgn----
+-------------------isrlsnkHFQILLge----dgNLLLNdistngtwln-----
+----------gqkveknsNQLLS-------------------------------------
+-----------------------qGDEITVGvgvesd---------ilSLVIFI
+>1lgq.A SISYPHUS AL00049879 construct 1690 pdb region: [A:17-86,B:87-122]
+GRLLRLgaee-------gepHVLLrk-------------REWTIGRRrgcdlsfps----
+-------------------nklvsgdHCRIVVdek---sgQVTLEdtstsgtvin-----
+----------klkvvkkqTCPLQ-------------------------------------
+-----------------------tGDVIYLVyrknep-------ehnvAYLYES
+>1gxc.A SISYPHUS AL00049879 construct 1691 pdb region: [A:94-203]
+ARLWALqdgf---------aNLECvn-------------DNYWFGRDksceycfdepllk
+rtdk---------------yrtyskkHFRIFRevgpknsyIAYIEdhsgngtfvn-----
+----------telvgkgkRRPLN-------------------------------------
+-----------------------nNSEIALSlsrnk------------VFVFFD
+>1uht.A SISYPHUS AL00049879 construct 1692 pdb region: [A:13-111]
+LRLVFVkgpr-------egdALDYkp------------gSTIRVGRIvrgneiaik----
+-------------------dagistkHLRIESds-----gNWVIQdlgssngtlln----
+----------snaldpetSVNLG-------------------------------------
+-----------------------dGDVIKLGe--------------ytSILVNF
+>1mzk.A SISYPHUS AL00049879 construct 1693 pdb region: [A:182-295]
+LFLEVIagpa-------iglQHAVnstsssk--------LPVKLGRVspsdlalk-----
+-------------------dsevsgkHAQITWnst---kfKWELVdmgslngtlvn----
+--shsishpdlgsrkwgnPVELA-------------------------------------
+-----------------------sDDIITLGt------------ttkvYVRISS
+>1r21.A SISYPHUS AL00049879 construct 1694 pdb region: [A:5-99]
+RRLVTIkrsgv------dgpHFPLsl-------------STCLFGRGiecdiriq-----
+-------------------lpvvskqHCKIEIhe-----qEAILHnfsstnptqvn----
+------------gsvidePVRLK-------------------------------------
+-----------------------hGDVITII---------------drSFRYEN
+>1ujx.A SISYPHUS AL00049879 construct 1695 pdb region: [A:17-113]
+LWLQSPtggp---------pPIFLpsd-----------gQALVLGRGpltqvt-------
+-------------------drkcsrnQVELIAdpe---srTVAVKqlgvnpstvg-----
+----------vqelkpglSGSLS-------------------------------------
+-----------------------lGDVLYLVng-------------lyPLTLRW
+>2fez.A SISYPHUS AL00049879 construct 1696 pdb region: [A:290-380]
+AYLHDIasg----------rGYPLqa-------------AATRIGRLhdndivld-----
+-------------------sanvsrhHAVIVDtg-----tNYVINdlrssngvhvq----
+------------herirsAVTLN-------------------------------------
+-----------------------dGDHIRIC---------------dhEFTFQI
+>2csw.A SISYPHUS AL00049879 construct 1697 pdb region: [A:18-126]
+WCLRRVgmsa---------gWLLLedg------------CEVTVGRGfgvtyqlvskic-
+-------------------plmisrnHCVLKQnpe----gQWTIMdnkslngvwln----
+----------rarleplrVYSIH-------------------------------------
+-----------------------qGDYIQLGvplenkena------eyEYEVTE
+>2g1l.A SISYPHUS AL00049879 construct 1698 pdb region: [A:499-599]
+PHLVNLn----edplmseclLYHIkd-------------GVTRVGQVdmdiklt------
+-------------------gqfireqHCLFRSipqpdgevVVTLEpc-egaetyvn----
+------------gklvtePLVLK-------------------------------------
+-----------------------sGNRIVMGk--------------nhVFRFNH
+>1wln.A SISYPHUS AL00049879 construct 1699 pdb region: [A:12-113]
+PYLVELs--pdgsdsrdkpkLYRLql-------------SVTEVGTEkfddnsiqlfg--
+--------------------pgiqphHCDLTNmd-----gVVTVTprsmdaetyvd----
+------------gqriseTTMLQ-------------------------------------
+-----------------------sGMRLQFGt--------------shVFKFVD
+>1qwt.A SISYPHUS AL00049879 construct 1700 pdb region: [A:204-369]
+FEVTAFyrgrqvf------qQTIScp-------------EGLRLVGSevgdrtlpgwpvt
+lpdpgmsltdrgvmsyvrhvlsclggGLALWRagq-----WLWAQrlghchtywavseel
+lpns--ghgpdgevpkdkEGGVFdlgpfivdlitftegsgrsp-----------------
+----------------------ryALWFCVGeswpqdqpwt---krlvMVKVVP
+>1wv3.A SISYPHUS AL00049879 construct 1701 pdb region: [A:4-76]
+LIIKYNkq------------LKXLnlrd----------gKTYTISEDeraditlks----
+-----------------------lgeVIHLEQnnq----gTWQAN---------------
+------------------HTSIN-------------------------------------
+-----------------------kVLVRKGD---------------ldDITLQL
+>1wv3.A SISYPHUS AL00049879 construct 1702 pdb region: [A:170-186,A:81-168]
+GLNVLSqntvasslirldyaSFAYpsiq-----------DTXTIGPNayddxviqs----
+-----------------------lxnAIIIKDfqsiqesqYVRIVhd-kntdvyin----
+-----------yelqeqlTNKAY-------------------------------------
+-----------------------iGDHIYVE---------------giWLEVQA

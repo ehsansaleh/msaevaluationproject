@@ -1,0 +1,66 @@
+>1dj0.A SISYPHUS AL00100877 construct 1118 pdb region: [A:10-252]
+YKIALGIEYDGskyygwqrqn-evrsvqeklekalsqvanepit-VFCAGRTDAGVHGtG
+QVVHFettalrkdaawtlgvnanlpgdiavrwvktvpddfharfsa-----TARRYRYII
+ynhrlrpavlskgvthfyepl---daermhraaqcllgendftsfravqcqsrt------
+-----------pwrnvmHINVTRHgp-----yVVVDIKANAfvhhMVRNIVGSLMevgah
+nqpeswiaellaakdrtlaa--atakaegLYLVavdy
+>1k8w.A SISYPHUS AL00100877 construct 1119 pdb region: [A:11-207]
+INGVLLLDKPQgm------------ssndalqkvkriyn--anr-AGHTGALDPLATG-M
+LPICLg------------------------------eatkfsqylld----SDKRYRVIA
+rlgqrtdtsdadgqiveerpv-tfsaeqlaaaldtfrgdieqipsmysalkyqgkklyey
+arqgievprearpitvyELLFIRHeg----neLELEIHCSKgt--YIRTIIDDLGeklgc
+-----------------------gahviyLRRLavsk
+>1r3e.A SISYPHUS AL00100877 construct 1120 pdb region: [A:11-207]
+KHGILVAYKPKgp------------tshdvvdevrkklk--trk-VGHGGTLDPFACG-V
+LIIGVn------------------------------qgtrilefykd----LKKVYWVKM
+rlglitetfditgevveerec-nvteeeireaifsfvgeydqvppaysakkykgerlykl
+aregkiinlppkrvkifKIWDVNIeg----rdVSFRVEVSPgt--YIRSLCMDIGyklgc
+-----------------------gataveLVREsvgp
+>1sgv.B SISYPHUS AL00100877 construct 1121 pdb region: [B:5-206]
+GPGIVVIDKPAgm------------tshdvvgrcrrifa--trr-VGHAGTLDPMATG-V
+LVIGIe------------------------------ratkilgllta----APKSYAATI
+rlgqttstedaegqvlqsvpakhltieaidaamerlrgeirqvpssvsaikvggrrayrl
+arqgrsvqlearpiridRFELLAArrrdqlidIDVEIDCSSgt--YIRALARDLGdalgv
+-----------------------gghvtaLRRTrvgr
+>1ksk.A SISYPHUS AL00100877 construct 1122 pdb region: [A:59-207]
+GPRYFXLNKPQgy--vcstdd-pdhptvlyfldep-----vawk-LHAAGRLDIDTTG-L
+VLXTD--------------------------------dgqwshritsprhhCEKTYLVTL
+esp---------------------vaddtaeqfakgvqlh--------------------
+--------nekdltkpaVLEVITP--------TQVRLTISEgryhQVKRXFAAVG-----
+------------------------nhvveLHRErigg
+>1vio.A SISYPHUS AL00100877 construct 1123 pdb region: [A:59-207]
+EGQYFMLNKPQgc--vcsndd-gdyptiyqffdyp-----lagk-LHSAGRLDVDTTG-L
+VLLTD--------------------------------dgqwshritspkhhCEKTYLVTL
+adp---------------------veenysaacaegillr--------------------
+--------gekeptkpaKLEILDD--------YNVNLTISEgryhQVKRMFAALG-----
+------------------------nkvvgLHRWkigd
+>1v9f.A SISYPHUS AL00100877 construct 1124 pdb region: [A:90-286]
+DEDIIIINKPRdl--vvhpgagnpdgtvlnallhyyppiadvpr-AGIVHRLDKDTTG-L
+MVVAKt-----------------------------vpaqtrlveslq-rreITREYEAVA
+-ig---------------------hmtaggtvdepisrhptkrthmavh-----------
+---------pmgkpavtHYRIMEHfrv----hTRLRLRLETgrthQIRVHMAHIThplvg
+dpvyggrprppkgaseafistlrkfdrqaLHATmlrl
+>1v9k.A SISYPHUS AL00100877 construct 1125 pdb region: [A:99-289]
+DDHILVLNKPSgt--avhggsg-lsfgvieglralrpearf----LELVHRLDRDTSG-V
+LLVAKk-----------------------------rsalrslheqlr-ekgXQKDYLALV
+rgq---------------------wqshvksvqapllknilqsgerivrvs---------
+---------qegkpsetRFKVEERyaf----aTLVRCSPVTgrthQIRVHTQYAGhpiaf
+ddrygdrefdrqlteagt-----glnrlfLHAAalkf
+>1szw.A SISYPHUS AL00100877 construct 1126 pdb region: [A:42-161,A:303-339,A:22-34]
+EHILVRILKNG--------------cntrfvadalakflkihareVSFAGQKDKHAVT-E
+QWLCArvpgkexpd--lsafqle---gcqvleyarhkrklrlg-al-----KGNAFTLVL
+-----------------revsnrddveqrlidicvkgvpnyfg-----------------
+-------------lypqQLSWNWWdd----vtVEIRFWLPAgs--FATSVVRELInanpe
+----------------------------dFVVVedlg
+>2apo.A SISYPHUS AL00100877 construct 1127 pdb region: [A:44-206]
+KYGVVVVDKPRgp------------tshevstwvkkiln--ldk-AGHGGTLDPKVTG-V
+LPVALe------------------------------ratktipmwhi----PPKEYVCLM
+hlh------------------rdaseedilrvfkeftgriyqrpplkaavk---------
+--------rrlrirkihELELLDKdg----kdVLFRVKCQSgt--YIRKLCEDIGealgt
+-----------------------sahmqeLRRTksgc
+>2ey4.A SISYPHUS AL00100877 construct 1128 pdb region: [A:48-210]
+QFGVINLDKPPgp------------tshevvawikkiln--lek-AGHGGTLDPKVSG-V
+LPVALe------------------------------katrvvqallp----AGKEYVALM
+hlh------------------gdvpedkiiqvmkefegeiiqrpplrsavk---------
+--------rrlrtrkvyYIEVLEIeg----rdVLFRVGVEAgt--YIRSLIHHIGlalgv
+-----------------------gahmseLRRTrsgp

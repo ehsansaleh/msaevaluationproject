@@ -1,0 +1,39 @@
+>4mon.B SISYPHUS AL00054403 construct 1715 pdb region: [B:11-50,A:2-40]
+FTQNLGKFAVDEENKIgqygr--LTFNKVirpCMKKTIYenereikGYEYQLYVYAS---
+----------------------DKLFRADISED--yktrgrkllRFNG
+>1eqk.A SISYPHUS AL00054403 construct 1716 pdb region: [A:22-95]
+HLVDLARFAVTEHNKK-ansl--LEFEKLvs-VKQQVVA-------GTLYYFTIEVKeg-
+--------------------daKKLYEAKVWEK--pwmdfkelqEFKP
+>1cew.I SISYPHUS AL00054403 construct 1717 pdb region: [I:20-115]
+GLQRALQFAMAEYNRA-sndkysSRVVRVis-AKRQLVS-------GIKYILQVEIGrtt
+cpkss-gdlqscefhdepemakYTTCTFVVYSI--pwlnqikllESKC
+>1n9j.A SISYPHUS AL00054403 construct 1718 pdb region: [A:15-49,B:50-87]
+EIQEIVDKVKPQLEEK-tnet--YGKLEAvq-YKTQVVA-------GTNYYIKVRAGd--
+----------------------NKYMHLKVFKSlpgqnedlvltGYQV
+>1stf.I SISYPHUS AL00054403 construct 1719 pdb region: [I:20-115]
+ETQHIADQVRSQLEEK-ynkk--FPVFKAvs-FKSQVVA-------GTNYFIKVHVGd--
+----------------------EDFVHLRVFQSlphenkpltlsNYQT
+>1r4c.A SISYPHUS AL00054403 construct 1720 pdb region: [A:22-58,B:59-117]
+GVRRALDFAVGEYNKA-sndmyhSRALQVvr-ARKQIVA-------GVNYFLDVELGrtt
+ctktq-pnldncpfhdqphlkrKAFCSFQIYAV--pwqgtmtlsKSTC
+>1roa.A SISYPHUS AL00054403 construct 1721 pdb region: [A:23-119]
+SVQRALDFAISEYNKVinkdeyySRPLQVm--AAYQQIVg------GVNYYFNVKFGrtt
+ctksq-pnldncpfndqpklkeEEFCSFQINEV--pwedkisilNYKC
+>2ch9.A SISYPHUS AL00054403 construct 1722 pdb region: [A:48-144]
+GVLQAARYSVEKFNNC-tndmflFKESRItr-ALVQIVK-------GLKYMLEVEIGrtt
+ckknqhlrlddcdfqtnhtlkqTLSCYSEVWVV--pwlqhfevpVLRC
+>1lxe.A SISYPHUS AL00054403 construct 1723 pdb region: [A:33-68,B:69-124]
+SYREAVLRAVDRLNEQ-sseanlYRLLELdq-PPKADEDp------GTPKPVSFTVKetv
+cprptrqppelcdfken---grVKQCVGTVTLD-----qikdplDITC
+>2bo9.B SISYPHUS AL00054403 construct 1724 pdb region: [B:9-91]
+PASRAALVAQNYINYQqgtphrvFEVQKVkq-ASMEDIPgr-----GHKYRLKFAVEeii
+qk------------------qvKVNCTAEVLYP-stgqetapevNFTF
+>2bo9.B SISYPHUS AL00054403 construct 1725 pdb region: [B:135-214]
+LVLHLAWVACGYIIWQnstedtwYKMVKIqt-VKQVQRNdd-----FIELDYTILLHnia
+s-------------------qeIIPWQMQVLWH---pqygtkvkHNSR
+>1wnh.A SISYPHUS AL00054403 construct 1726 pdb region: [A:9-91]
+AASRAASVAENCINYQqgtphklFLVQTVqq-ASKEDIPgr-----GHKYHLKFSVEeii
+qk------------------qvTVNCTAEVLYP-qmgqgsapevNFTF
+>1wnh.A SISYPHUS AL00054403 construct 1727 pdb region: [A:135-214]
+PVQHLAWVACGYVMWQnstedtwYKMLKIqt-VKQVQRNdd-----FIELDYTILLHdia
+s-------------------qeIIPWQMQVLWH---pqygtkvkHNSR

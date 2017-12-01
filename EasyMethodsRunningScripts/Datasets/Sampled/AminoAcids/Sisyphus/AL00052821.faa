@@ -1,0 +1,48 @@
+>1cws.A SISYPHUS AL00052821 construct 387 pdb region: [A:398-514]
+lKYISPETMVALltgkfsnivdkFVIVDCR----------YPYEYEG------------G
+HIKT--AVNLPl---erdaesfllkspiapcsldkr----------------VILIFHCE
+FS--sERGPRMCRFIRERDravndypslyypEMYILKGgyke
+>1c25 SISYPHUS AL00052821 construct 388 pdb region: [ NULL:356-471]
+lKYISPEIMASVlngkfanlikeFVIIDCR----------YPYEYEG------------G
+HIKG--AVNLHm---eeevedfllkkpiv-ptdgkr----------------VIVVFHCE
+FS--sERGPRMCRYVRERDrlgneypklhypELYVLKGgyke
+>1gn0.A SISYPHUS AL00052821 construct 389 pdb region: [A:4-95]
+fECINVADAHQKlqe------keAVLVDIR----------DPQSFAM------------G
+HAVQ--AFHLTn-----dtlgafmrdndfd----------------------TPVMVMCY
+HG---NSSKGAAQYLLQQG----------ydVVYSIDGgfea
+>1qxn.A SISYPHUS AL00052821 construct 390 pdb region: [A:22-119]
+mVMLSPKDAYKLlqen-----pdITLIDVR----------DPDELKAm-----------G
+KPDVknYKHMSrgklepllaksgldpe-------------------------KPVVVFCK
+TA---ARAALAGKTLREYG----------fkTIYNSEGgmdk
+>1orb SISYPHUS AL00052821 construct 391 pdb region: [ NULL:7-131]
+rALVSTKWLAESvragkvg--pgLRVLDASwyspgtre--ARKEYLE------------R
+HVPG--ASFFDi---eecrdkaspyevmlpseagfa------dyvgslgisnDTHVVVYD
+GDdlgSFYAPRVWWMFRVFg----------hRTVSVLNggfr
+>1orb SISYPHUS AL00052821 construct 392 pdb region: [ NULL:159-277]
+sLLKTYEQVLENleskr------FQLVDSR----------AQGRYLGtqpepdavgldsG
+HIRG--SVNMPf---mnflted----gfekspeelr-----amfeakkvdltKPLIATCR
+KG---VTACHIALAAYLCG----------kpDVAIYDGswfe
+>1h4m.X SISYPHUS AL00052821 construct 393 pdb region: [X:8-119]
+pLVIEPADLQARlsa------peLILVDLT----------SAARYAE------------G
+HIPG--ARFVDp---krtqlgqppapglqppreqle-----slfgelghrpeAVYVVYDD
+EG--gGWAGRFIWLLDVIG----------qqRYHYLNGglta
+>1h4m.X SISYPHUS AL00052821 construct 394 pdb region: [X:146-260]
+ePTASRDYLLGRlga------adLAIWDAR----------SPQEYRGekvla----akgG
+HIPG--AVNFEw---taamdpsr--alrirt--dia-----grleelgitpdKEIVTHCQ
+TH---HRSGLTYLIAKALG----------ypRVKGYAGswge
+>1okg.A SISYPHUS AL00052821 construct 395 pdb region: [A:13-133]
+kVFLDPSEVADHlae--------YRIVDCRyslkikdh--GSIQYAK------------E
+HVKS--AIRADv---dtnlsklvptstarhplppxaefidwcxangxage--LPVLCYDD
+EC-gaXGGCRLWWXLNSLG-----------aDAYVINGgfqa
+>1okg.A SISYPHUS AL00052821 construct 396 pdb region: [A:163-283]
+qHHYLVDEIPPQ-----------AIITDAR----------SADRFAS-tvrpyaadkxpG
+HIEG--ARNLPy---tshlvtrgdg-kvlrseeeirhnixtvvqgagdaadlSSFVFSXG
+SG---VTACINIALVHHLG----------lgHPYLYCGswse
+>1urh.A SISYPHUS AL00052821 construct 397 pdb region: [A:3-124]
+tWFVGADWLAEHiddpe------IQIIDARmaspgqedrnVAQEYLN------------G
+HIPG--AVFFDi---ealsdhtsplphmlprpetfa-----vamrelgvnqdKHLIVYDE
+GN--lFSAPRAWWMLRTFG----------veKVSILGGglag
+>1urh.A SISYPHUS AL00052821 construct 398 pdb region: [A:151-267]
+eAVVKVTDVLLAshent------AQIIDAR----------PAARFNA-evdeprpglrrG
+HIPG--ALNVPw---telvreg-----elkttdeld-----aiffgrgvsydKPIIVSXG
+SG---VTAAVVLLALATLD----------vpNVKLYDGawse

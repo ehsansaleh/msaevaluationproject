@@ -1,0 +1,7 @@
+------------------------------------------------
+
+command:  statreport   --skip=137127 /projects/tallis/ehsan/Studies/MafftVsBaliphy/ProcessedData/RunningBP/output/NucleicAcids/BRalibase.GroupIIIntron.L1-1/C1.p /projects/tallis/ehsan/Studies/MafftVsBaliphy/ProcessedData/RunningBP/output/NucleicAcids/BRalibase.GroupIIIntron.L1-2/C1.p > Results/Report
+
+
+command:  trees-consensus /projects/tallis/ehsan/Studies/MafftVsBaliphy/ProcessedData/RunningBP/output/NucleicAcids/BRalibase.GroupIIIntron.L1-1/C1.trees /projects/tallis/ehsan/Studies/MafftVsBaliphy/ProcessedData/RunningBP/output/NucleicAcids/BRalibase.GroupIIIntron.L1-2/C1.trees  --skip=137127     --consensus=0.5:Results/c50.tree,0.66:Results/c66.tree,0.8:Results/c80.tree,0.9:Results/c90.tree,0.95:Results/c95.tree,0.99:Results/c99.tree,1:Results/c100.tree --consensus-PP=0.5:Results/c50.PP.tree,0.66:Results/c66.PP.tree,0.8:Results/c80.PP.tree,0.9:Results/c90.PP.tree,0.95:Results/c95.PP.tree,0.99:Results/c99.PP.tree,1:Results/c100.PP.tree   --support-levels=Results/c-levels.plot --map-tree=Results/MAP.tree --greedy-consensus=Results/greedy.tree --report=Results/consensus
+

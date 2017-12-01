@@ -1,0 +1,109 @@
+
+These instructions apply to all benchmarks.
+We will denote the benchmark name with "Database" variable when addressing them. For instance: Database=Sisyphus or Database=Homstrad or Database=MattBench or Database=BAliBase or ...
+Also the data type is denoted with the "NucleicOrAmino" variable. NucleicOrAmino can either equal Amino or Nucleic (NucleicOrAmino=Amino or NucleicOrAmino=Nucleic).
+
+Step0.bash		==> Copying and Renaming(Just Adding the dataset name in prefix) and Aggregating all of the datasets of "Database" 
+					into the Datasets/Sampled/"NucleicOrAmino"Acids/"Database" folder.
+					(Warning: Step0 only works properly, when you have executed the step -1 manually and right before its execution. Running Step0.bash twice will result in an error).
+
+Step1.bash			==> Renaming the Sequences of Step0.bash
+					Input of Step1 is: Datasets/Sampled/"NucleicOrAmino"Acids/"Database" 
+					Output of Step 1 is: Datasets/SampledAndRenamed/"NucleicOrAmino"Acids/"Database"
+					
+Step2.bash			==> Unaligning sequences of Step1.bash
+					Input of Step 2 is: Datasets/SampledAndRenamed/"NucleicOrAmino"Acids/"Database"
+					Output of Step 2 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					
+Step3.bash			==> Aligning sequences of Step2.bash using MAFFT Auto
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/MAFFTAlignments/"NucleicOrAmino"Acids/"Database"
+					
+Step3.01.bash		==> Aligning sequences of Step2.bash using MAFFT G-INS-I
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/GINSIAlignments/"NucleicOrAmino"Acids/"Database"
+					
+Step3.02.bash		==> Aligning sequences of Step2.bash using MAFFT E-INS-I
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/EINSIAlignments/"NucleicOrAmino"Acids/"Database"
+					
+Step3.03.bash		==> Aligning sequences of Step2.bash using MAFFT L-INS-I
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/LINSIAlignments/"NucleicOrAmino"Acids/"Database"
+					
+Step3.1.bash		==> Aligning sequences of Step2.bash using Muscle
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/MuscleAlignments/"NucleicOrAmino"Acids/"Database"
+					
+Step3.2.bash		==> Aligning sequences of Step2.bash using ClustalW
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/ClustalWAlignments/"NucleicOrAmino"Acids/"Database"
+					
+Step3.3.bash		==> Aligning sequences of Step2.bash using Pagan (not evaluated in the main paper)
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Alignments Output of Step 3 is: ProcessedData/PaganAlignments/"NucleicOrAmino"Acids/"Database"
+					Trees Output of Step 3 is: ProcessedData/PaganTrees/"NucleicOrAmino"Acids/"Database"
+
+Step3.4.bash		==> Aligning sequences of Step2.bash using Prank
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/PrankAlignments/"NucleicOrAmino"Acids/"Database"
+
+Step3.5.bash		==> Aligning sequences of Step2.bash using ContrAlign v1.04
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/ContralignV104DefaulAlignments/"NucleicOrAmino"Acids/"Database"
+
+Step3.6.bash		==> Aligning sequences of Step2.bash using Di-Align
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/DiAlignAlignments/"NucleicOrAmino"Acids/"Database"
+
+Step3.7.bash		==> Aligning sequences of Step2.bash using K-Align
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/KAlignAlignments/"NucleicOrAmino"Acids/"Database"
+
+Step3.8.bash		==> Aligning sequences of Step2.bash using ProbAlign
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/ProbAlignAlignments/"NucleicOrAmino"Acids/"Database"
+
+Step3.9.bash		==> Aligning sequences of Step2.bash using Prime
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/PrimeAlignments/"NucleicOrAmino"Acids/"Database"
+
+Step3.x21.bash		==> Aligning sequences of Step2.bash using ProbCons
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/DefaultProbConsAlignments/"NucleicOrAmino"Acids/"Database"
+					
+Step3.x3-submit.bash,
+Step3.x3-collect.bash,
+Step3.x3.bash		==> Aligning sequences of Step2.bash using Promals (First Step3.x3-submit.bash should be ran, then collect and reformat the generated alignments using Step3.x3-collect.bash)
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/PromalsDaliFiles/"NucleicOrAmino"Acids/"Database"
+
+Step3.x31-submit.bash,
+Step3.x31.bash		==> Aligning sequences of Step2.bash using Promals3D (not evaluated in the paper due to running errors)
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/Promals3DFiles/"NucleicOrAmino"Acids/"Database"
+
+Step3.x32-submit.bash,
+Step3.x32.bash		==> Aligning sequences of Step2.bash using Promals (with Dali option turned on, not evaluated in the paper due to running errors)
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/PromalsDaliFiles/"NucleicOrAmino"Acids/"Database"
+
+Step3.x4.bash		==> Aligning sequences of Step2.bash using POA (not evaluated in the paper due to prior shown inaccuracy)
+					Input of Step 3 is: Datasets/SampledAndRenamedAndUnaligned/"NucleicOrAmino"Acids/"Database"
+					Output of Step 3 is: ProcessedData/POAAlignments/"NucleicOrAmino"Acids/"Database"
+
+Step4.bash			==> Creating a table to feed baliphy with protein substitution model information for each dataset(a.k.a. Finding the best model of evolution for each dataset)
+					Input of Step 4 is: ProcessedData/LINSIAlignments/"NucleicOrAmino"Acids/"Database"
+					Output of Step 4 is: ProcessedData/AlphabetAndModel/"NucleicOrAmino"Acids/"Database".csv
+
+Step4.1.bash		==> Creating a table to feed StatAlign with protein substitution model information for each dataset(a.k.a. Finding the best model of evolution for each dataset, StatAlign was not included in the paper)
+					Input of Step 4 is: ProcessedData/LINSIAlignments/"NucleicOrAmino"Acids/"Database"
+					Output of Step 4 is: ProcessedData/AlphabetAndModel/"NucleicOrAmino"Acids/"Database".csv
+
+Step5.bash			==> This step generates the "best" raxml trees (by best, we mean using the best option we could find,). This step was not done in the main paper.
+					Input of Step 4 is: ProcessedData/MAFFTAlignments/"NucleicOrAmino"Acids/"Database"
+					Output of Step 4 is: ProcessedData/RAxMLTrees/"NucleicOrAmino"Acids/"Database".csv
+					
+Step8.bash			==> This step assesses the accuracy of all the estimated alignments and gives you one csv data file, and an average file.
+
+Step9.bash			==> This step finds the ess values of BaliPhy runnings and generates a csv file.

@@ -1,0 +1,40 @@
+>1ssp.E SISYPHUS AL00052141 construct 332 pdb region: [E:136-291]
+DVKVVILGQDPYH-gpnqahglcfsvqrpvppp---------------------------
+psleNIYKELstdiedfvhpghgdlsgwakqgVLLLNAVLTVRa---hqansh-------
+kerGWEQFTDaVVSWLNQNSNGLVFLLWGSYAQKKGsa-idrk-------------rHHV
+LQTAHPSPLSvyrgf-------FGCRHFSKTNELL
+>1okb.A SISYPHUS AL00052141 construct 333 pdb region: [A:136-291]
+DVKVVILGQDPYH-gpnqahglcfsvqkpvppp---------------------------
+pslvNIYKELctdidgfkhpghgdlsgwakqgVLLLNAVLTVRa---hqansh-------
+kdrGWETFTDaVIKWLSVNREGVVFLLWGSYAHKKGat-idrk-------------rHHV
+LQAVHPSPLSahrgf-------LGCKHFSKANGLL
+>1lau.E SISYPHUS AL00052141 construct 334 pdb region: [E:79-232]
+EVRVVIIGQDPYH-hpgqahglafsvranvppp---------------------------
+pslrNVLAAVkncypearmsghgclekwardgVLLLNTTLTVKr---gaaash-------
+sriGWDRFVGgVIRRLAARRPGLVFMLWGTHAQNAIr--pdpr-------------vHCV
+LKFSHPSPLSkvp-f-------GTCQHFLVANRYL
+>1eug.A SISYPHUS AL00052141 construct 335 pdb region: [A:55-210]
+DVKVVILGQDPYH-gpgqahglafsvrpgiaip---------------------------
+psllNMYKELentipgftrpnhgyleswarqgVLLLNTVLTVRa---gqahsh-------
+aslGWETFTDkVISLINQHREGVVFLLWGSHAQKKGai-idkq-------------rHHV
+LKAPHPSPLSahrgf-------FGCNHFVLANQWL
+>1ui0.A SISYPHUS AL00052141 construct 336 pdb region: [A:33-185]
+DAKLMIVGEGPGE-eedktgrpfvg-----------------------------------
+kagqLLNRILeaagipree-------------VYITNIVKCRPp----qnrap-------
+lpdEAKICTDkWLLKQIELIAPQIIVPLGAVAAEFFlg-ekvsitkvrgkwyewhg-IKV
+FPMFHPAYLLrnpsrapgspkhLTWLDIQEVKRAL
+>1mwi.A SISYPHUS AL00052141 construct 337 pdb region: [A:9-163]
+GLRVVFCGINPGL-ssagtgfpfah-----------------------------------
+pan-RFWKVIyqagftdrqlkpqeaqhlldyrCGVTKLVDRPTv----qanev-------
+skqELHAGGR-KLIEKIEDYQPQALAILGKQAYEQGfs-qrga---qwgkqtltigsTQI
+WVLPNPSGLSrv-------sleKLVEAYRELDQAL
+>1l9g.A SISYPHUS AL00052141 construct 338 pdb region: [A:38-188]
+DTRIVFVGEGPGE-eedktgrpfvg-----------------------------------
+ragmLLTELLresgirred-------------VYICNVVKCRPp----nnrtp-------
+tpeEQAACGH-FLLAQIEIINPDVIVALGATALSFFvdgkkvsitkvrgnpidwlggKKV
+IPTFHPSYLLrnrsn---elrrIVLEDIEKAKSFI
+>1oe4.A SISYPHUS AL00052141 construct 339 pdb region: [A:87-277]
+KKEVLFLGMNPGPfgmaqtgvpfgevnhvrdwlqiegpvskpevehpkrrirgfecpqse
+vsgaRFWSLFkslcgqpet---------ffkhCFVHNHCPLIFmnhsgknltptdlpkaq
+rdtLLEICDE-ALCQAVRVLGVKLVIGVGRFSEQRArk-almaeg----------idVTV
+KGIMHPSPRNpqank---gwegIVRGQLLELGVLS

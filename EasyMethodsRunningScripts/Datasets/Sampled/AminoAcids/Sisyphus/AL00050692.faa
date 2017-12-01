@@ -1,0 +1,72 @@
+>1pyq.A SISYPHUS AL00050692 construct 500 pdb region: [A:11-89]
+HRVKVtHADLHyea-----------------------------gsCAIDQDFLdaagiLE
+NEAIDIWnvtngkRFSTYAIAAErgsr---------IISVNg------------------
+----------aaahca--------------------------SVGDIVIIA
+>1uhe.B SISYPHUS AL00050692 construct 501 pdb region: [B:11-24,A:26-87]
+HRATItDANLNyig-------------------------------ITIDEDLAklaklRE
+GMKVEIVdvnngeRFSTYVILGKkrg----------EICVNg------------------
+----------aaarkv--------------------------AIGDVVIIL
+>1eu1.A SISYPHUS AL00050692 construct 502 pdb region: [A:635-762]
+YPLHV-VASHPksrlhsqlngtslrdlyava----------ghepCLINPADAaargiAD
+GDVLRVFnd--rgQILVGAKVSDavm--------pgAIQIYeggwydpldps-------e
+egtldkygdvnvlsldvgtskl---------------aqgncGQTILADVE
+>1dms SISYPHUS AL00050692 construct 503 pdb region: [ NULL:635-762]
+YPLHI-AASHPfnrlhsqlngtvlregyavq----------ghepCLMHPDDAaargiAD
+GDVVRVHnd--rgQILTGVKVTDavm--------kgVIQIYeggwydpsdvt-------e
+agtldkygdvnvlsadigtskl---------------aqgncGQTVLAEVE
+>1aa6 SISYPHUS AL00050692 construct 504 pdb region: [ NULL:573-686]
+YPMVL-STVREvghyscrsmtgncaalaalad---------epgyAQINTEDAkrlgiED
+EALVWVHsr--kgKIITRAQVSDrpn--------kgAIYMTyqww---------------
+----------------------------------------peYKYCAVRVE
+>1kqf.A SISYPHUS AL00050692 construct 505 pdb region: [A:888-1013]
+FPYVG-TTYRLtehfhtw--tkhallnaiaqp----------eqfVEISETLAaakgiNN
+GDRVTVSsk--rgFIRAVAVVTRrlkplnvngqqveTVGIPihwgfegvark-------g
+yiantltpnvgdansq-----------------------tpeYKAFLVNIE
+>1h0h.A SISYPHUS AL00050692 construct 506 pdb region: [A:848-975]
+YPFIC-STYRVtehwqtglmtrntpwlleaep----------qmfCEMSEELAtlrgiKN
+GDKVILEsv--rgKLWAKAIITKrikpfaiqgqqvhMVGIPwhygwsfpkng-------g
+daaniltpsvgnpntg-----------------------ipeTKAFMVNVT
+>1tmo SISYPHUS AL00050692 construct 507 pdb region: [ NULL:643-778]
+HPIWL-QSCHPdkrlhs--qmcesreyretyavn-------grepVYISPVDAkargiKD
+GDIVRVFnd--rgQLLAGAVVSDnfpk--------gIVRIHegawygpvgkdgsteggae
+vgalcsygdpntltldigtskl---------------aqacsAYTCLVEFE
+>1g8k.A SISYPHUS AL00050692 construct 508 pdb region: [A:694-805]
+YRFWL-NNGRNnevwqtayhdqynslmqery----------pmayIEMNPDDCkqldvTG
+GDIVEVYnd--fgSTFAMVYPVAeik--------rgQTFMLfgyv---------------
+------ngiqgdvttdwtdr-----------------diipyYKGTWGDIR
+>2nap.A SISYPHUS AL00050692 construct 509 pdb region: [A:609-721]
+YPLYL-TSMRVidhwhtatmtgkvpelqkanp----------iafVEINEEDAartgiKH
+GDSVIVEtr--rdAMELPARVSDvcr--------pgLIAVPffdp---------------
+------kklvnklfldatdpv----------------srepeYKICAARVR
+>1ogy.A SISYPHUS AL00050692 construct 510 pdb region: [A:686-800]
+FGFWL-VTGRVlehwhsgsmtlrwpelykaf----------pgavCFMHPEDArsrglNR
+GSEVRVIsr--rgEIRTRLETRGrnrmp------rgVVFVPwfda---------------
+------sqlinkvtldandpi----------------srqtdFKKCAVKIE
+>1q16.A SISYPHUS AL00050692 construct 511 pdb region: [A:1084-1225]
+KALNF-LTPHQkwgihstysd--nllmltlgr---------ggpvVWLSEADAkdlgiAD
+NDWIEVFns--ngALTARAVVSQrvp--------agMTMMYhaqerivnlpg-------s
+eitqqrggihnsvtritpkpthmiggyahlaygfnyygtvgsNRDEFVVVR
+>1vlf.M SISYPHUS AL00050692 construct 512 pdb region: [M:730-865]
+YPLGM-LSPHPrfsmhtmgdgk--nsymnyikdhrvevdgykywiMRVNSIDAeargiKN
+GDLIRAYnd--rgSVILAAQVTEclq--------pgTVHSYescavydplgt-------a
+gksadrggciniltpdryisky---------------acgmaNNTALVEIE
+>1qcs.A SISYPHUS AL00050692 construct 513 pdb region: [A:4-81]
+RSXQA-ARCPTdelsls--------------------------ncAVVSEKDY-----QS
+GQHVIVRtsp-nhKYIFTLRTHPsvv--------pgSVAFSl------------------
+----------pqrkwagl------------------------SIGQEIEVA
+>1cr5.A SISYPHUS AL00050692 construct 514 pdb region: [A:27-100]
+RHLKV-SNCPNnsyala--------------------------nvAAVSPNDF-----PN
+NIYIIIDn-----LFVFTTRHSNdip--------pgTIGFNg------------------
+----------nqrtwggw------------------------SLNQDVQAK
+>1cz5.A SISYPHUS AL00050692 construct 515 pdb region: [A:7-88]
+IILRV-AEANStdpgms---------------------------rVRLDESSRrlldaEI
+GDVVEIEkv---rKTVGRVYRARpeden------kgIVRIDs------------------
+----------vmrnncga------------------------SIGDKVKVR
+>1e32.A SISYPHUS AL00050692 construct 516 pdb region: [A:24-103]
+NRLIV-DEAINedn-----------------------------svVSLSQPKMdelqlFR
+GDTVLLKgkk-rrEAVCIVLSDDtcs--------deKIRMNr------------------
+----------vvrnnlrv------------------------RLGDVISIQ
+>1wlf.A SISYPHUS AL00050692 construct 517 pdb region: [A:15-95]
+AVVTV-AFTNAr------------------------------dcfLHLPRRLVaqlhlLQ
+NQAIEVAsd--hqPTYLSWVEGRhfndqs-----enVAEINr------------------
+----------qvgqklgl------------------------SSGDQVFLR

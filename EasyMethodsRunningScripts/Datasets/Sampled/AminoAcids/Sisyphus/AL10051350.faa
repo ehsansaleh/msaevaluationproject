@@ -1,0 +1,190 @@
+>1eep.A SISYPHUS AL10051350 construct 1230 pdb region: [A:257-289]
+ICIIADGGIr-----------fSGDVVKAIaag------------ADSVMIGNLFA
+>1zfj.A SISYPHUS AL10051350 construct 1231 pdb region: [A:338-370]
+KTIIADGGIk-----------ySGDIVKALaag------------GNAVXLGSXFA
+>1me9.A SISYPHUS AL10051350 construct 1232 pdb region: [A:353-385]
+IPVCSDGGIv-----------yDYHMTLALamg------------ADFIMLGRYFA
+>1jcn.A SISYPHUS AL10051350 construct 1233 pdb region: [A:359-391]
+VPIIADGGIq-----------tVGHVVKALalg------------ASTVMMGSLLA
+>1jr1.A SISYPHUS AL10051350 construct 1234 pdb region: [A:359-391]
+VPVIADGGIq-----------nVGHIAKALalg------------ASTVMMGSLLA
+>1nfb.A SISYPHUS AL10051350 construct 1235 pdb region: [A:359-391]
+VPVIADGGIq-----------nVGHIAKALalg------------ASTVMMGSLLA
+>1qo2.A SISYPHUS AL10051350 construct 1236 pdb region: [A:189-227]
+VKVLAAGGIs-----------sENSLKTAQkvhtetngl------LKGVIVGRAFL
+>1qo2.A SISYPHUS AL10051350 construct 1237 pdb region: [A:74-106]
+EHIQIGGGIr-----------sLDYAEKLRklg------------YRRQIVSSKVL
+>1thf.D SISYPHUS AL10051350 construct 1238 pdb region: [D:196-228]
+LPIIASGGAg-----------kMEHFLEAFlag------------ADAALAASVFH
+>1thf.D SISYPHUS AL10051350 construct 1239 pdb region: [D:75-107]
+IPFTVGGGIh-----------dFETASELIlrg------------ADKVSINTAAV
+>1ka9.F SISYPHUS AL10051350 construct 1240 pdb region: [F:76-108]
+IPLTVGGGVr-----------sLEDARKLLlsg------------ADKVSVNSAAV
+>1ka9.F SISYPHUS AL10051350 construct 1241 pdb region: [F:197-229]
+VPVIASGGAg-----------rMEHFLEAFqag------------AEAALAASVFH
+>1jvn.A SISYPHUS AL10051350 construct 1242 pdb region: [A:325-368]
+VPLTVGGGIkdivdvdgtkipaLEVASLYFrsg------------ADKVSIGTDAV
+>1jvn.A SISYPHUS AL10051350 construct 1243 pdb region: [A:494-527]
+IPVIASSGAg-----------vPEHFEEAFlktr-----------ADACLGAGMFH
+>1h5y.A SISYPHUS AL10051350 construct 1244 pdb region: [A:199-231]
+IPVIASGGAg-----------rVEHFYEAAaag------------ADAVLAASLFH
+>1h5y.A SISYPHUS AL10051350 construct 1245 pdb region: [A:78-110]
+IPVLVGGGVr-----------sLEDATTLFrag------------ADKVSVNTAAV
+>1tph.1 SISYPHUS AL10051350 construct 1246 pdb region: [1:204-236]
+TRIIYGGSVt------------GGNCKELAsqhd-----------VDGFLVGGASL
+>1hti.A SISYPHUS AL10051350 construct 1247 pdb region: [A:204-236]
+TRIIYGGSVt------------GATCKELAsqpd-----------VDGFLVGGASL
+>1r2r.A SISYPHUS AL10051350 construct 1248 pdb region: [A:204-236]
+TRIIYGGSVt------------GATCKELAsqpd-----------VDGFLVGGASL
+>1mo0.A SISYPHUS AL10051350 construct 1249 pdb region: [A:203-235]
+TRIIYGGSVt------------ADNAAELGkkpd-----------IDGFLVGGASL
+>7tim.A SISYPHUS AL10051350 construct 1250 pdb region: [A:204-236]
+LRILYGGSAn------------GSNAVTFKdkad-----------VDGFLVGGASL
+>1ag1.O SISYPHUS AL10051350 construct 1251 pdb region: [O:206-238]
+LRILYGGSVn------------GKNARTLYqqrd-----------VNGFLVGGASL
+>1sux.A SISYPHUS AL10051350 construct 1252 pdb region: [A:207-239]
+LRILYGGSVt------------AKNARTLYqmrd-----------INGFLVGGASL
+>1m7o.A SISYPHUS AL10051350 construct 1253 pdb region: [A:204-236]
+IRILYGGSVn------------TENCSSLIqqed-----------IDGFLVGNASL
+>1amk SISYPHUS AL10051350 construct 1254 pdb region: [ NULL:206-238]
+LRILYGGSVn------------AANAATLYakpd-----------INGFLVGGASL
+>1m6j.A SISYPHUS AL10051350 construct 1255 pdb region: [A:213-245]
+TRIQYGGSVn------------PANCNELAkkad-----------IDGFLVGGASL
+>1tre.A SISYPHUS AL10051350 construct 1256 pdb region: [A:207-239]
+VIIQYGGSVn------------ASNAAELFaqpd-----------IDGALVGGASL
+>1tmh.A SISYPHUS AL10051350 construct 1257 pdb region: [A:207-239]
+VIIQYGGSVn------------ASNAAELFaqhd-----------VDGFLVGGASL
+>1btm.A SISYPHUS AL10051350 construct 1258 pdb region: [A:205-237]
+IRIQYGGSVk------------PDNIRDFLaqqq-----------IDGPLVGGASL
+>1aw1.A SISYPHUS AL10051350 construct 1259 pdb region: [A:207-239]
+VVIQYGGSVk------------PENAAAYFaqpd-----------IDGALVGGAAL
+>1b9b.A SISYPHUS AL10051350 construct 1260 pdb region: [A:207-239]
+IRILYGGSIk------------PDNFLGLIvqkd-----------IDGGLVGGASL
+>1hg3.A SISYPHUS AL10051350 construct 1261 pdb region: [A:177-209]
+VKVLCGAGIs-----------tGEDVKKAIelg------------TVGVLLASGVT
+>1w0m.A SISYPHUS AL10051350 construct 1262 pdb region: [A:174-206]
+VSVITGAGIe-----------sGDDVAAALrlg------------TRGVLLASAAV
+>1yya.A SISYPHUS AL10051350 construct 1263 pdb region: [A:205-237]
+VRILYGGSVn------------PKNFADLLsmpn-----------VDGGLVGGASL
+>1xi3.A SISYPHUS AL10051350 construct 1264 pdb region: [A:155-186]
+IPVVAIGGIn------------KDNAREVLktg------------VDGIAVISAVM
+>2tps.A SISYPHUS AL10051350 construct 1265 pdb region: [A:181-212]
+IPIVGIGGIt------------IDNAAPVIqag------------ADGVSMISAIS
+>1yad.A SISYPHUS AL10051350 construct 1266 pdb region: [A:149-180]
+IPVIAIGGM------------tPDRLRDVKqag------------ADGIAVMSGIF
+>1m5w.A SISYPHUS AL10051350 construct 1267 pdb region: [A:187-219]
+LKVNAGHGLt------------YHNVKAIAaipe-----------MHELNIGHAII
+>1tyg.A SISYPHUS AL10051350 construct 1268 pdb region: [A:279-311]
+VPVIVDAGIg-----------sPKDAAYAMelg------------ADGVLLNTAVS
+>1q2s.A SISYPHUS AL10051350 construct 1269 pdb region: [A:255-286]
+KPHYLMGVGk------------PDDIVGAVerg------------IDMFDCVLPTR
+>2ash.A SISYPHUS AL10051350 construct 1270 pdb region: [A:236-267]
+KPRYFMGGGs------------PELILELVdrg------------VDMFDSVFPTR
+>1it8.A SISYPHUS AL10051350 construct 1271 pdb region: [A:224-255]
+RPVHLFGAGh------------PIVFALAVamg------------VDLFDSASYAL
+>1jcl.A SISYPHUS AL10051350 construct 1272 pdb region: [A:198-242]
+VGFKPAGGVr-----------tAEDAQKYLaiadelfgadwadarHYRFGASSLLA
+>1o0y.A SISYPHUS AL10051350 construct 1273 pdb region: [A:205-237]
+MGVKASGGIr-----------tFEDAVKMImyg------------ADRIGTSSGVK
+>1mzh.A SISYPHUS AL10051350 construct 1274 pdb region: [A:276-308]
+IKVKASGGIr-----------dLETAISMIeag------------ADRIGTSSGIS
+>1ub3.A SISYPHUS AL10051350 construct 1275 pdb region: [A:177-209]
+AQVKAAGGIr-----------dRETALRMLkag------------ASRLGTSSGVA
+>1n7k.A SISYPHUS AL10051350 construct 1276 pdb region: [A:194-226]
+MGVKASGGIr-----------sGIDAVLAVgag------------ADIIGTSSAVK
+>1vcv.A SISYPHUS AL10051350 construct 1277 pdb region: [A:185-224]
+LGVKMAGGIr-----------tREQAKAIVdaigwgedp------ARVRLGTSTPE
+>2dor.A SISYPHUS AL10051350 construct 1278 pdb region: [A:243-275]
+IQIIGTGGIe-----------tGQDAFEHLlcg------------ATMLQIGTALH
+>1ep3.A SISYPHUS AL10051350 construct 1279 pdb region: [A:242-274]
+IPIIGMGGVa-----------nAQDVLEMYmag------------ASAVAVGTANF
+>2b4g.A SISYPHUS AL10051350 construct 1280 pdb region: [A:244-276]
+KLVFGCGGVy-----------sGEEAFLHIlag------------ASMVQVGTALH
+>1f76.A SISYPHUS AL10051350 construct 1281 pdb region: [A:290-322]
+LPIIGVGGId-----------sVIAAREKIaag------------ASLVQIYSGFI
+>1d3g.A SISYPHUS AL10051350 construct 1282 pdb region: [A:328-360]
+VPIIGVGGVs-----------sGQDALEKIrag------------ASLVQLYTALT
+>1uum.A SISYPHUS AL10051350 construct 1283 pdb region: [A:328-360]
+IPIIGVGGVs-----------sGQDALEKIqag------------ASLVQLYTALI
+>1oyb SISYPHUS AL10051350 construct 1284 pdb region: [ NULL:318-351]
+GPVIRAGNFa----------lhPEVVREEVkdk------------RTLIGYGRFFI
+>1bwk.A SISYPHUS AL10051350 construct 1285 pdb region: [A:318-351]
+GPVIRAGNFa----------lhPEVVREEVkdk------------RTLIGYGRFFI
+>1icp.A SISYPHUS AL10051350 construct 1286 pdb region: [A:302-334]
+GTFIVAGGYd------------REDGNRALiedr-----------ADLVAYGRLFI
+>1vji.A SISYPHUS AL10051350 construct 1287 pdb region: [A:298-330]
+GTFISAGGFt------------REDGNEAVskgr-----------TDLVAYGRWFL
+>1q45.A SISYPHUS AL10051350 construct 1288 pdb region: [A:315-347]
+GTFMSSGGFn------------KELGMQAVqqgd-----------ADLVSYGRLFI
+>1gox SISYPHUS AL10051350 construct 1289 pdb region: [ NULL:280-312]
+IPVFLDGGVr-----------rGTDVFKALalg------------AAGVFIGRPVV
+>1p4c.A SISYPHUS AL10051350 construct 1290 pdb region: [A:279-311]
+KPVLIDSGFr-----------rGSDIVKALalg------------AEAVLLGRATL
+>1vyr.A SISYPHUS AL10051350 construct 1291 pdb region: [A:295-327]
+GVIIGAGAY------------tAEKAEDLIgkgl-----------IDAVAFGRDYI
+>1gwj.A SISYPHUS AL10051350 construct 1292 pdb region: [A:300-332]
+GGLIYCGNY------------dAGRAQARLddnt-----------ADAVAFGRPFI
+>1o94.A SISYPHUS AL10051350 construct 1293 pdb region: [A:292-325]
+KPVLGVGRYt-----------dPEKMIEIVtkgy-----------ADIIGCARPSI
+>1ps9.A SISYPHUS AL10051350 construct 1294 pdb region: [A:281-314]
+LPLVTTNRIn-----------dPQVADDILsrgd-----------ADMVSMARPFL
+>1kbi.A SISYPHUS AL10051350 construct 1295 pdb region: [A:404-436]
+LEVFVDGGVr-----------rGTDVLKALclg------------AKGVGLGRPFL
+>1h7w.A SISYPHUS AL10051350 construct 1296 pdb region: [A:788-820]
+FPILATGGId-----------sAESGLQFLhsg------------ASVLQVCSAVQ
+>1ea0.A SISYPHUS AL10051350 construct 1297 pdb region: [A:1065-1097]
+VRLRTDGGLk-----------tGRDIVIAAmlg------------AEEFGIGTASL
+>1ofd.A SISYPHUS AL10051350 construct 1298 pdb region: [A:1100-1132]
+VLLRADGGLk-----------tGWDVVMAAlmg------------AEEYGFGSIAM
+>1p0n.A SISYPHUS AL10051350 construct 1299 pdb region: [A:252-284]
+STMIASGGLq-----------dALDVAKAIalg------------ASCTGMAGHFL
+>1vhn.A SISYPHUS AL10051350 construct 1300 pdb region: [A:184-217]
+IPTFVSGDIf-----------tPEDAKRALeesg-----------CDGLLVARGAI
+>1viz.A SISYPHUS AL10051350 construct 1301 pdb region: [A:181-212]
+STLFYGGGIk-----------dAETAKQYAeh-------------ADVIVVGNAVY
+>1tb3.A SISYPHUS AL10051350 construct 1302 pdb region: [A:273-305]
+IEVYMDGGVr-----------tGTDVLKALalg------------ARCIFLGRPIL
+>1tv5.A SISYPHUS AL10051350 construct 1303 pdb region: [A:500-532]
+IPIIASGGIf-----------sGLDALEKIeag------------ASVCQLYSCLV
+>1vcf.A SISYPHUS AL10051350 construct 1304 pdb region: [A:257-289]
+LPLVASGGVy-----------tGTDGAKALalg------------ADLLAVARPLL
+>1z41.A SISYPHUS AL10051350 construct 1305 pdb region: [A:278-311]
+XATGAVGXIt-----------dGSXAEEILqngr-----------ADLIFIGRELL
+>2f6u.A SISYPHUS AL10051350 construct 1306 pdb region: [A:1188-1219]
+ARLFYGGGId-----------sREKAREMLry-------------ADTIIVGNVIY
+>1dl3.A SISYPHUS AL10051350 construct 1307 pdb region: [A:152-184]
+RYLVLSGGLn------------PENVRSAIdvvr-----------PFAVDVSSGVE
+>1geq.A SISYPHUS AL10051350 construct 1308 pdb region: [A:192-224]
+NKVAVGFGVs-----------kREHVVSLLkeg------------ANGVVVGSALV
+>1h1y.A SISYPHUS AL10051350 construct 1309 pdb region: [A:173-204]
+LDIEVDGGLg------------PSTIDVAAsag------------ANCIVAGSSIF
+>1i4n.A SISYPHUS AL10051350 construct 1310 pdb region: [A:204-235]
+TVVVAESGIk-----------dPRELKDLRgk-------------VNAVLVGTSIM
+>1igs SISYPHUS AL10051350 construct 1311 pdb region: [ NULL:205-237]
+VVKVAESGIs-----------eRNEIEELRklg------------VNAFLIGSSLM
+>1k8y.A SISYPHUS AL10051350 construct 1312 pdb region: [A:206-238]
+APALQGFGIs-----------sPEQVSAAVrag------------AAGAISGSAIV
+>1pii SISYPHUS AL10051350 construct 1313 pdb region: [ NULL:400-431]
+GNVLLAGGLg------------ADNCVEAAqtg------------CAGLDFNSAVE
+>1pii SISYPHUS AL10051350 construct 1314 pdb region: [ NULL:209-240]
+VTVISESGIn-----------tYAQVRELShf-------------ANGFLIGSALM
+>1rd5.A SISYPHUS AL10051350 construct 1315 pdb region: [A:202-234]
+KPVAVGFGIs-----------kPEHVKQIAqwg------------ADGVIIGSAMV
+>1rpx.A SISYPHUS AL10051350 construct 1316 pdb region: [A:180-211]
+PWIEVDGGVg------------PKNAYKVIeag------------ANALVAGSAVF
+>1tqj.A SISYPHUS AL10051350 construct 1317 pdb region: [A:174-205]
+PWIEVDGGLk------------PNNTWQVLeag------------ANAIVAGSAVF
+>1tqx.A SISYPHUS AL10051350 construct 1318 pdb region: [A:174-205]
+LNIQVDGGLn------------IETTEISAshg------------ANIIVAGTSIF
+>1ujp.A SISYPHUS AL10051350 construct 1319 pdb region: [A:203-233]
+LPVAVGFGVs-----------gKATAAQAAv--------------ADGVVVGSALV
+>1v5x.A SISYPHUS AL10051350 construct 1320 pdb region: [A:147-178]
+RRVILAGGIa------------PENLEEVLalr------------PYALDLASGVE
+>1vc4.A SISYPHUS AL10051350 construct 1321 pdb region: [A:209-240]
+GVLVAESGYs-----------rKEELKALEgl-------------FDAVLIGTSLM
+>1wv2.B SISYPHUS AL10051350 construct 1322 pdb region: [B:2188-2220]
+VPVLVDAGVg-----------tASDAAIAMelg------------CEAVLMNTAIA
+>1xc4.A SISYPHUS AL10051350 construct 1323 pdb region: [A:206-238]
+APPLQGFGIs-----------aPDQVKAAIdag------------AAGAISGSAIV
+>1y0e.A SISYPHUS AL10051350 construct 1324 pdb region: [A:175-207]
+AKVIAEGNVi-----------tPDXYKRVXdlg------------VHCSVVGGAIT
