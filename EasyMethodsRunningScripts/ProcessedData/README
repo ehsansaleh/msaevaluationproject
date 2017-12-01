@@ -1,4 +1,4 @@
-Due to excessive amount of files, we had to zip the files the total number of files is reduced. Please just do the following to unzip all the files
+Due to excessive amount of files, we had to zip the files so that the total number of files is reduced. Please just execute the following code piece to unzip all of the zipped files.
 
 for file in $(ls);do
 	tar -xzvf $file
