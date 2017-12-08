@@ -17,7 +17,7 @@ fi
 inputdir=../../ProcessedData/LINSIAlignments/"$NucleicOrAmino"Acids/$DatasetName
 csvfile=../../ProcessedData/AlphabetAndModel/"$NucleicOrAmino"Acids/$DatasetName.csv
 
-protmodelscript=../../Datasets/PythonScripts/ProteinModelFinder/AICProtModel.py
+protmodelscript=$(pwd)/AICProtModel.py
 
 #Converting the relative address of the csvfile to an absolute path
 csvadress="${csvfile%/*}"
@@ -48,6 +48,7 @@ cd - > /dev/null 2>&1
 echo Creating The CSV file with the evolutionary models
 echo "File Name, Data Type, RAxML Model, Baliphy Model" > $csvfile
 if [ $NucleicOrAmino == Nucleic ]; then
+	#In case the alignments are nucleotides, we'll just have to output GTRGAMMAI
 	raxmodel=GTRGAMMAI
 	bpmodel=GTR
 	for file in $inputdir/*.fna; do
@@ -56,6 +57,7 @@ if [ $NucleicOrAmino == Nucleic ]; then
 		echo $filename,$dtype,$raxmodel,$bpmodel >> $csvfile
 	done
 else
+	#For protein alignments, we have to do the following
 	
 	rm -rf $tempfolder
 	mkdir $tempfolder
@@ -67,6 +69,10 @@ else
 	
 	i=0
 	
+	#Running RAxML model selection python script on all alignments of a benchmark two times.
+	#One time, we'll select among models supported by BaliPhy.
+	#The other time, we'll select among all known models.
+	#This step is done in parallel and generates background processes.
 	for file in $inputdir/*.faa; do
 		filename=$(basename $file)
 		echo $filename

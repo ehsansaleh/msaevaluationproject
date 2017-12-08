@@ -33,6 +33,7 @@ cd - > /dev/null 2>&1
 
 
 echo Doing Promals Alignment on Raw Fasta Files ...
+#Generating a list of TODO alignment tasks for ourselves.
 cd $inputdir
 echo $inputdir
 inputfilesarray=()

@@ -23,5 +23,4 @@ cd $outputdir
 outputdir=$(pwd)
 cd - > /dev/null 2>&1
 
-cd /projects/tallis/ehsan/Python/RawFastaMaker
-python Script.py -i $inputdir -o $outputdir
+python RawFastaMaker.py -i $inputdir -o $outputdir

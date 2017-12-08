@@ -12,11 +12,13 @@ fi
 essscript=$(pwd)/ESSScript.py
 bpanalysisfolder=../../../MafftVsBaliphy/ProcessedData/BPAnalyzeResults/"$NucleicOrAmino"Acids/$DatasetName
 
+#Converting the relative path to an absolute path
 cd $bpanalysisfolder
 bpanalysisfolder=$(pwd)
 cd - > /dev/null 2>&1
 
 mkdir -p $DatasetName
 
+#Just running the ESS python Script on baliphy results
 python $essscript -i $bpanalysisfolder -o $DatasetName/$DatasetName"ESS".csv
 

@@ -16,6 +16,7 @@ cd $Totalfolder
 Totalfolder=$(pwd)
 cd - > /dev/null 2>&1
 
+#This script is used for copying the BRaliBase alignment files into a seperate folder for further analysis
 for i in * ; do
   if [ -d "$i" ]; then
 	dirname=$(basename $i)
@@ -24,7 +25,7 @@ for i in * ; do
 	for filename in * ; do
 		number="${filename%%.fa*}"
 		number="${number##*aln}"
-		#checking if it number is really a number
+		#checking if this number is really a number
 		if [ $number -eq $number ] 2> /dev/null; then
 			number=$(printf %03d $number)
 			mv $filename $dirname$number.fna

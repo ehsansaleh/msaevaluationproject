@@ -105,6 +105,8 @@ else
 		mkdir bptemp
 		echo $filename > filename.txt
 		
+		#Running RAxML model selection python script on all alignments of a benchmark.
+		#This step is done in parallel and generates background processes.
 		#If you just want to use LG for datasets with less than 4 sequences, jus remove the if, and keep the else part (i.e. run python $protmodelscript on every dataset).
 		if [[ $(grep ">" < $file | wc -l) -lt 4 ]]; then
 		

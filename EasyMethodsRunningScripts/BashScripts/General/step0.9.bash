@@ -18,6 +18,7 @@ outfolder=$(readlink -m $outfolder)
 
 i=0
 samples=$minsampleseqs
+#This step creates a csv file with details about the sampling process
 echo "Original Name,Original Number of Sequences,New Name,Number of Sampled Sequences" > $outcsvfile
 for file in $(ls $infolder/*.faa); do
         filename=$(basename $file)

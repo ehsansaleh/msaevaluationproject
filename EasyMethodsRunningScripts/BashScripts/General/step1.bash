@@ -31,6 +31,4 @@ cd - > /dev/null 2>&1
 echo Input Directory "==>" $inputdir
 echo Output Directory "==>" $outputdir
 
-cd /projects/tallis/ehsan/Python/StrangeToSimpleNamemapper/
-
-python Script.py -r -i $inputdir -o $outputdir
+python StrangeToSimpleNamemapper.py -r -i $inputdir -o $outputdir

@@ -1,7 +1,7 @@
 #!/bin/bash
 ###PBS -W depend=afterany:<JobID>
 if [ ! -z $PBS_O_WORKDIR ]; then cd $PBS_O_WORKDIR; fi;
-#This step Finds the best evolutionary model for proteins, and creates a csv file for it
+#This step generates some "good" RAxML trees for the estimated alignments.
 
 #Warning this script removes any existing output directory
 if [ -z "$1" ] || [ -z "$2" ]; then

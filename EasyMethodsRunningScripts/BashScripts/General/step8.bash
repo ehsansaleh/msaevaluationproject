@@ -15,7 +15,7 @@ fi
 
 
  
-
+#Different estimated alignment folders for assessment
 refalndir=../../Datasets/SampledAndRenamed/"$NucleicOrAmino"Acids/$DatasetName
 mafftalndir=../../ProcessedData/MAFFTAlignments/"$NucleicOrAmino"Acids/$DatasetName
 ginsialndir=../../ProcessedData/GINSIAlignments/"$NucleicOrAmino"Acids/$DatasetName
@@ -52,6 +52,8 @@ updatescript=$(pwd)/UpdateStats.py
 updateflag=0
 
 csvavgdatacalc=$(pwd)/NewManyCsvToOne.py
+
+#Changing the relative paths to absolute paths, in order to avoid problems.
 
 cd $pralinealndir
 pralinealndir=$(pwd)
@@ -183,6 +185,7 @@ else
 	extension=faa
 fi
 
+#Defining the list of methods to compare in each case
 if [[ $NucleicOrAmino == Amino ]]; then
 	methodnames=( Praline MAFFT-H-LargeDB MAFFT-Homologs Promals TCoffee SAPDMul SAPDSum BPMAP SAPD BPPD MAFFT LINSI GINSI EINSI Prank Muscle Clustal DiAlign KAlign Prime ProbAlign DefaultContrAlign ProbCons DefaultProbCons )
 	estalnfolders=( $pralinealndir $maffthomlargedbalndir $maffthomalndir $promalsalndir $tcoffeealndir $samulpdalndir $sasumpdalndir $bpmapalndir $sapdalndir $bppdalndir $mafftalndir $linsialndir $ginsialndir $einsialndir $prankalndir $musclealndir $clustalalndir $dialnalndir $kalnalndir $primealndir $probalnalndir $defaultContralndir $probconsalndir $defaultProbconsalndir )
@@ -191,6 +194,7 @@ else
 	estalnfolders=( $samulpdalndir $sasumpdalndir $bpmapalndir $sapdalndir $bppdalndir $mafftalndir $linsialndir $ginsialndir $einsialndir $musclealndir $clustalalndir $dialnalndir $kalnalndir $primealndir $probalnalndir $probconsalndir $defaultProbconsalndir )
 fi
 
+#Creating a list of assessment tasks.
 for ((i=0;i<${#estalnfolders[@]};++i)); do
 	estfolder="${estalnfolders[i]}"
 
@@ -208,6 +212,7 @@ for file in $refalndir/*.$extension; do
 	cp $refalndir/$filename reftempfolder/
 done
 
+#Running the list of assessment tasks.
 for ((i=0;i<${#lpdistarr[@]};++i)); do
 	lowpdist="${lpdistarr[i]}"
 	highpdist="${hpdistarr[i]}"

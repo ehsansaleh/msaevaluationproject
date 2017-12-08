@@ -3,3 +3,53 @@ Due to excessive amount of files, we had to zip the files so that the total numb
 for file in $(ls);do
 	tar -xzvf $file
 done
+
+----------
+The brief description of the files:
+
+AlphabetAndModel.tar.gz										==> The csv files used for feeding to BaliPhy, which contain the best protein substitution model.
+BPAlnsTrees.tar.gz											==> BAliPhy MAP and PD Estimated Alignments, and Trees.
+BPWeaveAlign.tar.gz											==> BAliPhy + WeaveAlign Estimated Alignments.
+ClustalWAlignments.tar.gz									==> Clustal-Omega Estimated Alignment.
+ContralignAlignments.tar.gz									==> Contralign Estimated Alignments using non-default options (leading to worse reults).
+ContralignDefaulAlignments.tar.gz							==> Contralign Estimated Alignments using default options.
+ContralignDefaulAlignmentsWithParamsOption.tar.gz			==> Contralign Estimated Alignments using default options and passing a parameter file (usually it generates the same effect as the default option).
+ContralignV104Alignments.tar.gz								==> Contralign Version 1.04 Estimated Alignments using non-default options (leading to worse reults than the default).
+ContralignV104DefaulAlignments.tar.gz						==> Contralign Version 1.04 Estimated Alignments using default options (These files are reported in the main paper).
+DefaultProbConsAlignments.tar.gz							==> ProbCons Estimated Alignments using default options. (This is reported in the main article).
+DiAlignAlignments.tar.gz									==> Di-Align Estimated Alignments.
+EINSIAlignments.tar.gz										==> MAFFT E-INS-I Estimated Alignments.
+GINSIAlignments.tar.gz										==> MAFFT G-INS-I Estimated Alignments.
+KAlignAlignments.tar.gz										==> K-Align Estimated Alignments.
+LINSIAlignments.tar.gz										==> MAFFT L-INS-I Estimated Alignments.
+MAFFTAlignments.tar.gz										==> MAFFT Auto Estimated Alignments.
+MAFFTHomologsAlignments.tar.gz								==> MAFFT Homologs Estimated Alignments using the "protswiss" database (These results are reported in the main paper).
+MAFFTHomologsLargeDBAlignments.tar.gz						==> MAFFT Homologs Estimated Alignments using all the database available at NCBI (Not much of improvement seen in this case).
+MuscleAlignments.tar.gz										==> Muscle Estimated Alignments.
+POAAlignments.tar.gz										==> POA Estimated Alignments.
+PaganAlignments.tar.gz										==> Pagan Estimated Alignments.
+PaganTrees.tar.gz											==> Muscle Estimated Trees.
+PralineAlignments.tar.gz									==> Praline Estimated Alignments.
+PralineFiles.tar.gz											==> Praline Intermediatory Files.
+PrankAlignments.tar.gz										==> Prank Estimated Alignments.
+PrimeAlignments.tar.gz										==> Prime Estimated Alignments.
+ProbAlignAlignments.tar.gz									==> ProbAlign Estimated Alignments.
+ProbConsAlignments.tar.gz									==> robCons Estimated Alignments using non-default options leading to worse results.
+Promals3DFiles.tar.gz										==> Promals3D Intermediatory Files.
+PromalsAlignments.tar.gz									==> Promals Estimated Alignments.
+PromalsFiles.tar.gz											==> Promals Intermediatory Files.
+SAAlnTrees.tar.gz
+SparseBPWeaveAlign.tar.gz
+SparseStatAlignPDAlignments.tar.gz
+SparseStatWeaveAlign.tar.gz
+SparserBPWeaveAlign.tar.gz
+SparserStatAlignPDAlignments.tar.gz
+SparserStatWeaveAlign.tar.gz
+SparsestBPWeaveAlign.tar.gz
+SparsestStatAlignPDAlignments.tar.gz
+SparsestStatWeaveAlign.tar.gz
+StatAlignMulPDAlignments.tar.gz
+StatAlignPDAlignments.tar.gz
+StatAlignSumPDAlignments.tar.gz
+StatWeaveAlign.tar.gz
+TCoffeeAlignments.tar.gz									==> TCoffee Estimated Alignments.
