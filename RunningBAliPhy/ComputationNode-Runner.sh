@@ -2,12 +2,13 @@
 
 configaddress=$1
 
+#This script reads the configurations from the input config file, and runs the process on the computational node
 #First Arguemnt is baliphy full address
 #Second Argument is the input fasta file full address
 #Third Argument is the dataset name(ususally just simple fastaname)
 #Fourth Argument is the data type(RNA, DNA or Amino Acids)
 #Fifth Argument is the evolution model
-#SixthArgument is the output folder address
+#Sixth Argument is the output folder address
 
 currentfolder=$(pwd)
 
