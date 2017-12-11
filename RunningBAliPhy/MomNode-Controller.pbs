@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -A badu
+#PBS -q low
+#PBS -m be
+#PBS -M ehsan.slh@gmail.com
+#PBS -j oe
+#PBS -l nodes=1:ppn=32:xe
+#PBS -l walltime=48:00:00
+
+#module load java
+#module load bwpy
+#alias python=python2.7
+
+cd $PBS_O_WORKDIR
+
+cfgadress=${cfgadr}
+
+aprun -n 1 -N 1 -d 32 ./controller.sh $cfgadress
+

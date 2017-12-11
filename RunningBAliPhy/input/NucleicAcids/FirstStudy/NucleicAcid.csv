@@ -1,0 +1,25 @@
+File Name, Data Type, RAxML Model, Baliphy Model
+16S.A.Seed.fasta,RNA,GTRGAMMAI,GTR
+BRalibase.5SrRNA.L1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.5SrRNA.L2.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.5SrRNA.M1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.5SrRNA.M2.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.5SrRNA.M3.fasta,DNA,GTRGAMMAI,GTR
+23S.A.Seed.fasta,RNA,GTRGAMMAI,GTR
+BRalibase.GroupIIIntron.H1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.GroupIIIntron.L1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.GroupIIIntron.L2.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.GroupIIIntron.M1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.GroupIIIntron.M2.fasta,DNA,GTRGAMMAI,GTR
+23S.B.Seed.fasta,RNA,GTRGAMMAI,GTR
+BRalibase.tRNA.H1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.tRNA.L1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.tRNA.L2.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.tRNA.M1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.tRNA.M2.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.U5.L1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.U5.L2.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.U5.L3.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.U5.M1.fasta,DNA,GTRGAMMAI,GTR
+BRalibase.U5.M2.fasta,DNA,GTRGAMMAI,GTR
+16S.B.Seed.fasta,RNA,GTRGAMMAI,GTR
