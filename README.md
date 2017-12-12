@@ -6,7 +6,8 @@ Here is a brief description of the folders (For more detailed information, pleas
     1) EasyMethodsRunningScripts:
 
         This folder includes the scripts for running the following alignment methods:
-        Mafft Variants, Promals, ContrAlign, ProbAlign, ProbCons, Muscle, Prime, Clustal-Omega, DiAlign, KAlign, and Prank
+        Mafft Variants, Promals, ContrAlign, ProbAlign, ProbCons, Muscle,
+        Prime, Clustal-Omega, DiAlign, KAlign, and Prank
         
     2) RunningBAliPhy:
 
