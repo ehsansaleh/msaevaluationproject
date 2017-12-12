@@ -1,11 +1,12 @@
 # msaevaluation
 This repository includes the scripts implemented for the Multiple Sequence Evaluation Project conducted at the Department of Computer Science in the University of Illinois at Urbana-Champaign.
 
-Here is a brief description of the folders (For more detailed information, please refer to the related folder's readme file):
+Here is a brief description of the folders. For more detailed information, please refer to the related folder's readme file.
 
     1) EasyMethodsRunningScripts:
 
         This folder includes the scripts for running the following alignment methods:
+        
         Mafft Variants, Promals, ContrAlign, ProbAlign, ProbCons, Muscle,
         Prime, Clustal-Omega, DiAlign, KAlign, and Prank
         
